@@ -1,3 +1,3 @@
 # Weather-App
 
-Live Demo: https://shreyas190401.github.io/Weather-App/
+Live Demo: https://akash23-tech.github.io/Weather-app/
